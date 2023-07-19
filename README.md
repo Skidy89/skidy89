@@ -15,7 +15,7 @@
 </div>
 
 # Mis trofeos 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Skidy89)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Skidy89&theme=onedark)](https://github.com/Skidy89)
 
 
 
