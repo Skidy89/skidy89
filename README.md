@@ -14,6 +14,9 @@
 </a>
 </div>
 
+# Mis trofeos 🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=120&section=footer"/>
