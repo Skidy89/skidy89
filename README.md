@@ -10,6 +10,7 @@
 <div align="center">
 <a href="https://github.com/Skidy89/">
 <img src="https://github-readme-stats.vercel.app/api?username=Skidy89&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=007BFF&icon_color=007BFF&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+
 <img
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Skidy89&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&locale=es-mx">
  src="https://github-readme-stats.vercel.app/api/top-langs?username=Skidy89&show_icons=true&locale=en&layout=compact&line_height=20&title_color=007BFF&icon_color=007BFF&text_color=D3D3D3&bg_color=0,000000,130F40" width="290" alt="Skidy89"/>
