@@ -16,6 +16,11 @@
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Skidy89&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&locale=es-mx">
 
   </a>
+</details> 
+  
+ <p align="center"> 
+ <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/> 
+ </p>
 </div>
 
 # Mis trofeos 🏆
@@ -26,8 +31,4 @@
 </div>
 
 
- </details> 
-  
- <p align="center"> 
- <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/> 
- </p>
+ 
