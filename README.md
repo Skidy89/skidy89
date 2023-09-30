@@ -24,3 +24,10 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=120&section=footer"/>
 </div>
+
+
+ </details> 
+  
+ <p align="center"> 
+ <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/> 
+ </p>
