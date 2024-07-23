@@ -3,11 +3,14 @@
 </div>
 
 # Gracias por visitar mi perfil 👋
+<p align="center">
+  <img alt="Cute Count" src="https://count.getloli.com/get/@Skidy89?theme=asoul"/>
+  </details>
+</p>
 
 ![SkidXd](https://cardivo.vercel.app/api?name=i'm+skid&description=hola+soy+skid+programador+de+bots+de+WhatsApp,+tengo+algunas+copias+baratas+de+mi+bot+como+shadow+bot+Nova+bot+y+Andrés+VPN+deja+de+robarme+comandos,+en+fin+gracias+por+visitar+mi+perfil&image=https://avatars.githubusercontent.com/u/112231743?s=400&u=2ceeb90c9c297760edaac088e9a08a43d2b5f964&v=4&backgroundColor=%23ecf0f1&github=Skidy89)
 
 
-> "Duerman a Diego ofc, Aiden es mi perra"
 
 <div align="center">
   <a href="https://github.com/Skidy89/">
