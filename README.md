@@ -1,16 +1,19 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=120&section=header"/>
 </div>
+<h1 align="center">Hi, I'm skid</h1>
+<h3 align="center">developer for fun</h3>
 
-# Gracias por visitar mi perfil 👋
-<p align="center">
-  <img alt="Cute Count" src="https://count.getloli.com/get/@Skidy89?theme=asoul"/>
-  </details>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=skidy89&label=Profile%20views&color=004875&style=flat" alt="skidy89" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skidy89" alt="skidy89" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-![SkidXd](https://cardivo.vercel.app/api?name=i'm+skid&description=hola+soy+skid+programador+de+bots+de+WhatsApp,+tengo+algunas+copias+baratas+de+mi+bot+como+shadow+bot+Nova+bot+y+Andrés+VPN+deja+de+robarme+comandos,+en+fin+gracias+por+visitar+mi+perfil&image=https://avatars.githubusercontent.com/u/112231743?s=400&u=2ceeb90c9c297760edaac088e9a08a43d2b5f964&v=4&backgroundColor=%23ecf0f1&github=Skidy89)
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <div align="center">
   <a href="https://github.com/Skidy89/">
@@ -26,12 +29,9 @@
  </p>
 </div>
 
-# Mis trofeos 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=Skidy89&theme=onedark)](https://github.com/Skidy89)
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=120&section=footer"/>
 </div>
-
 
  
