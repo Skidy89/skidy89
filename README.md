@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=120&section=header"/>
 </div>
 <h1 align="center">Hi, I'm skid</h1>
-<h3 align="center">puto</h3>
+<h3 align="center">https://connections.roblox.com/share?v=v2&code=11xq4e4jm6ykxy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skidy89&label=Profile%20views&color=004875&style=flat" alt="skidy89" /> </p>
 
