@@ -11,7 +11,7 @@
 <a href="https://discord.com/users/1036735119282675763">
 <img src="https://img.shields.io/badge/Discord-Skid%230000-ff00ff?style=for-the-badge&logo=discord&logoColor=white&color=ff00ff&labelColor=1a001f"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=skidy89&label=Profile+Views&color=ff00ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=skidy89&label=Profile+Views&color=ff00ff&style=for-the-badge&color=ff00ff&labelColor=1a001f" />
 
 <img src="https://img.shields.io/github/followers/skidy89?style=for-the-badge&color=ff00ff&labelColor=1a001f"/>
 
