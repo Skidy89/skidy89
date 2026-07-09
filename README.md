@@ -25,7 +25,7 @@
 
 ```ts
 const skid = {
-    language: ["TypeScript", "JavaScript", "rust"],
+    language: ["TypeScript", "JavaScript", "Rust"],
     database: ["SQLite"],
     interests: [
         "WhatsApp Bots",
@@ -33,7 +33,7 @@ const skid = {
         "Reverse Engineering",
         "Backend Development"
     ],
-    currentlyWorkingOn: "open wa (whatsapp bot)",
+    currentlyWorkingOn: ["Open Wa (Whatsapp Bot)", "Node_characterai", "Libsignal-plugins"],
 }
 ```
 
