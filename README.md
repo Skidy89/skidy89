@@ -59,6 +59,8 @@ const skid = {
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=skidy89&theme=neon-dark&hide_border=true"/>
+![WakaTime](https://img.shields.io/wakatime/user/skidy89)
+
 
 </div>
 
